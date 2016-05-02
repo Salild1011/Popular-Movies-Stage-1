@@ -78,7 +78,7 @@ public class MainActivityFragment extends Fragment {
         private final String BASE_URL_IMAGE = "http://image.tmdb.org/t/p";
         private final String SIZE_POSTER = "/w342";
         private final String SIZE_BACKDROP = "/w342";
-        private final String API_KEY = "?api_key=";
+        private final String API_KEY = "?api_key="; //Insert API Key here
         private URL listUrl;
         private StringBuilder builder;
 
